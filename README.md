@@ -145,15 +145,16 @@ python create_db.py
 
 The blood bank information in this project is sample data and may be incomplete or out of date. Please contact the blood bank directly to confirm availability before visiting.
 
+
+👩‍💻 Author
+
+Athira M
+
+
+📄 License
+
+This project is open source and available under the MIT License.
+
+
+
 ---
-
-## 👩‍💻 Author
-
-**Athira Mohan **
-GitHub: @athira20122002-ui
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
